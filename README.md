@@ -31,10 +31,10 @@ RFD:L provides an easy to use interface that communicates with the RFD command-l
 - The launcher will automatically select the correct Roblox client version based on the server's ```GameConfig```.
 
 # Screenshots
-![RFD:L Login page](images/S1.png)
-![RFD:L Home page](images/S2.png)
-![RFD:L Host page](images/S3.png)
-![RFD:L Roblox High](images/S4.png)
+![RFD:L Login page](images/S1.jpg)
+![RFD:L Home page](images/S2.jpg)
+![RFD:L Host page](images/S3.jpg)
+![RFD:L Roblox High](images/S4.jpg)
 
 # Disclaimer
 - RFD:L is not affiliated with or endorsed by Windows81 or Roblox.
